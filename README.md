@@ -6,6 +6,7 @@ Creates md file inc yaml frontmatter and
 Moves md file to Obsidian Vault on network share
 
 ### 0.2.0
+- md_playbook added to github !!!
 - filename name version suffix removed for git compatibility
 - toml project name - version siffix removed
 - toml description added
