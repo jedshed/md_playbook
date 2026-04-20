@@ -1,7 +1,7 @@
 [project]
 name = "md-playbook"
 version = "0.2.0"
-description = "Creates a markdown do of the latest politico playbook newsletter"
+description = "Creates a markdown doc of the latest politico playbook newsletter"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
