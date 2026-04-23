@@ -46,7 +46,7 @@ def extract_metadata_vars(
             meta_author = metadata.author if metadata and metadata.author else "None"
 
             ### Set meta_oldest_date to oldest as site data not always consistent 
-            meta_publish_date = min(meta_date, meta_filedate)
+            meta_publish_date = max(meta_date, meta_filedate)
 
             # ### Put vars in metadata_items list for display looping
             metadata_items = [
