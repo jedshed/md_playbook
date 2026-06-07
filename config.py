@@ -71,7 +71,7 @@ class Config:
 
     ### BS Config
     base_url = 'https://www.politico.eu/newsletter/london-playbook/'
-    limit = 106
+    limit = 107
 
     file_ext = '.md'
     
